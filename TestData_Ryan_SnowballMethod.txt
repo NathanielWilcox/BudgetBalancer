@@ -1,0 +1,47 @@
+Name: Ryan
+MonthlyNetIncome: 1280
+MonthlyExpenses: 1000
+CreditScore: 650
+
+Debts:
+- Name: Student Loans
+    Type: 1
+    Balance: 22000
+    APR: 6
+    MonthlyInterest: 110
+- Name: Credit Card 1
+    Type: 2
+    Balance: 7338.46
+    APR: 13
+    MonthlyInterest: 79.50
+- Name: Credit Card 2
+    Type: 2
+    Balance: 12000
+    APR: 18
+    MonthlyInterest: 180
+- Name: Credit Card 3
+    Type: 2
+    Balance: 19661.54
+    APR: 15
+    MonthlyInterest: 245.77
+
+PayoffMethod: Snowball
+
+Name: Amber
+MonthlyNetIncome: 1720
+MonthlyExpenses: 1200
+CreditScore: 720
+
+Debts:
+- Name: Student Loans
+    Type: 1
+    Balance: 48000
+    APR: 8
+    MonthlyInterest: 384
+- Name: Credit Card Debt
+    Type: 2
+    Balance: 10000
+    APR: 6
+    MonthlyInterest: 50
+
+PayoffMethod: Interest-Only
