@@ -256,6 +256,7 @@ public class DebtRepaymentCalculator {
         System.out.println("You will pay off your consolidated debt in " + months + " months with an interest rate of " 
                    + (newInterestRate * 100) + "%.");
     }
+
 }
 
 
