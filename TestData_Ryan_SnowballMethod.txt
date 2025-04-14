@@ -1,3 +1,5 @@
+// This file is meant to show the two test cases I used
+
 Name: Ryan
 MonthlyNetIncome: 1280
 MonthlyExpenses: 1000
